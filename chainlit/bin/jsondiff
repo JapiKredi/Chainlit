@@ -1,0 +1,4 @@
+#!/Users/jasper/Desktop/Chainlit/chainlit/bin/python
+# EASY-INSTALL-SCRIPT: 'jsonpatch==1.33','jsondiff'
+__requires__ = 'jsonpatch==1.33'
+__import__('pkg_resources').run_script('jsonpatch==1.33', 'jsondiff')

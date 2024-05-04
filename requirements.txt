@@ -1,1 +1,9 @@
 chainlit
+notebook
+ipywidgets
+tqdm
+python-dotenv
+openai
+langchain_google_genai
+
+-e .
